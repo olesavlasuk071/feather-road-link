@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, glossy 3D golden wooden road signpost arrow, single object, centered, dark radial gradient background from slate blue to near black, thin cream outline, strong gold highlight, crisp, no text, no scene, no second object"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, night farm field under cold floodlights, deep graphite and navy tones, heavy vignette, very dark and moody, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, stylized top-down night farm map with glowing gold and cyan dirt roads crossing wooden fields, warm floodlight pools, vibrant 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark wooden planks with faint gold light haze, very low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_cart_gold",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden farm cart loaded with golden wheat sacks, centered icon, glossy 3D render, warm gold palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_cart_cyan",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden farm cart loaded with cyan milk churns, centered icon, glossy 3D render, cool cyan palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_cart_green",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden farm cart loaded with green vegetable crates, centered icon, glossy 3D render, fresh green palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_barn_gold",
+      "type": "sprite",
+      "prompt": "One single cute cartoon farm barn with a golden roof, centered icon, glossy 3D render, warm gold palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_barn_cyan",
+      "type": "sprite",
+      "prompt": "One single cute cartoon farm barn with a cyan roof, centered icon, glossy 3D render, cool cyan palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_barn_green",
+      "type": "sprite",
+      "prompt": "One single cute cartoon farm barn with a green roof, centered icon, glossy 3D render, fresh green palette, isolated on plain white, no other objects, no text"
+    },
+    {
+      "name": "sprite_signpost",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden directional signpost with a blank gold arrow board, centered icon, glossy 3D render, isolated on plain white, no other objects, no text, no letters"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background plate, brushed gold to terracotta gradient, glossy brutalist panel with subtle grain, rounded corners, no text, no icons"
+    }
+  ]
+}
